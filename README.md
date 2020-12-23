@@ -12,3 +12,5 @@ https://thrazer675.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Tyler Razer
+
+### ©️2019 Run Buddy, Inc 
