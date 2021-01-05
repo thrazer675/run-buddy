@@ -389,7 +389,7 @@ section {
 }
 
 .grid-head, .grid-price, .service-grid-item.cancel {
-    font-size; 1.5rem;
+    font-size: 1.5rem;
     font-weight: bold;
 }
 
